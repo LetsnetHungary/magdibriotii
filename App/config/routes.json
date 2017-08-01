@@ -1,0 +1,9 @@
+[
+    {"href" : "HTTPError", "closure" : "static", "view" : "Error"},
+    {"href" : "Index", "closure" : "static", "view" : "Index"},
+    {"href" : "admin/login", "closure" : "static", "view" : "Login"},
+    {"href" : "Termekek", "closure" : "termekek", "controller" : "Termekek", "view" : "Termekek", "order" : ["{argument}"]},
+    {"href" : "Kapcsolat", "closure" : "static", "view" : "Kapcsolat"},
+    {"href" : "Request", "closure" : "mvc", "controller" : "Request", "order" : ["{method}"]},
+    {"href" : "Thanks", "closure" : "static", "view" : "Thanks"}
+]

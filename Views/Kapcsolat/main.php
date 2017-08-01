@@ -1,0 +1,72 @@
+<main>
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-sm-6 col-xs-12 datacont match"> <!--Baloldali tömb -->
+
+           <div class="col-sm-12 cim kapcsolat-section"> <!-- Cím -->
+                  <div class="icon contact-icon">
+                  <img class="kapcsolat-logo" src="../../assets/images/phone-icon.png" alt="">
+                  <!-- <span class="glyphicon glyphicon-map-marker"></span> -->
+                  </div>
+                  <div class="data-holder">
+                  <h3>Telefon</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+              </div>
+
+              <div class="col-sm-12 cim kapcsolat-section"> <!-- Cím -->
+                  <div class="icon contact-icon">
+                  <img class="kapcsolat-logo" src="../../assets/images/location-icon.png" alt="">
+                  <!-- <span class="glyphicon glyphicon-map-marker"></span> -->
+                  </div>
+                  <div class="data-holder">
+                  <h3>Cím</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+              </div>
+
+              <div class="col-sm-12 email kapcsolat-section"> <!-- Email -->
+                  <div class="icon contact-icon">
+                  <img class="kapcsolat-logo" src="../../assets/images/email-icon.png" alt="">
+                  </div>
+                  <div class="data-holder">
+                  <h3>Email</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+              </div>
+
+              <div class="col-sm-12 nyitvatartas kapcsolat-section"> <!-- Nyitvatartás -->
+                  <div class="icon contact-icon">
+                  <img class="kapcsolat-logo" src="../../assets/images/clock-icon.png" alt="">
+                  <!-- <span class="glyphicon glyphicon-time"></span> -->
+                  </div>
+                  <div class="data-holder">
+                  <h3>Nyitvatartás</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+              </div>
+
+              <div class="col-sm-12 megkozelithetoseg kapcsolat-section"> <!-- Megközelíthetőség -->
+                  <div class="icon contact-icon">
+                  <img class="kapcsolat-logo" src="../../assets/images/car-icon.png" alt="">
+                  </div>
+                  <div class="data-holder">
+                  <h3>Megközelíthetőség</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+              </div>
+            </div>
+
+
+            <div class="col-sm-6 col-xs-12 mapcont match">
+            <iframe class="map" width="600px" height="450px" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB48VdGDT4W8jLJFPay2pRuBJ1Hueuze5M&q=47.493965,19.053773"></iframe>
+            </div>
+
+
+        <script type="text/javascript">
+            $('.match').matchHeight();
+        </script>
+        </div>
+        </div>
+</main>

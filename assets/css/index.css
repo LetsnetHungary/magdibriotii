@@ -1,0 +1,154 @@
+/* banner slider */
+
+.w3_banner {
+  /* border: 1px solid red; */
+  width: 100% !important;
+}
+
+.slider_container {
+  height: 100% !important;
+}
+
+#myCarousel {
+  height: 100% !important;
+}
+
+.banner_text_w3layouts h3 {
+	color: black !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.slider_container {
+  margin: 0 !important;
+}
+
+.slider_picture {
+  width: 100vw !important;
+  height: 70vh !important;
+  object-fit: cover !important;
+}
+
+/* Galéria */
+
+.w3agile-text {
+  background: rgba(40, 140, 145, 0.38) !important;
+}
+
+.grid-c.grid_w3l {
+  margin: 0 !important;
+}
+
+.title{
+  padding-left: 15px !important;
+}
+
+.grid-1 {
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+
+.grid_w3 {
+  padding: 0 0.42em !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  height: 100% !important;
+}
+
+.agileits_w3layouts{
+  margin-top: 0 !important;
+}
+
+.sub_grid {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+/* navbar */
+.navbar-inverse {
+    background: rgba(0, 0, 0, 1) !important;
+    border-radius: 0px !important;
+    margin: 0px !important;
+}
+
+/* Rólunk */
+
+.about_agileits {
+  min-height: 320px !important;
+  margin-top: 10px !important;
+}
+
+.about_text_w3l {
+  padding: 0 27px !important;
+  margin-top: 10px !important;
+}
+
+/* Media queries*/
+
+
+@media only screen and (min-width: 768px) and (max-width: 1000px){
+.about_agileits {
+  width: 50% !important;
+  height: 438px !important;
+}
+}
+
+@media only screen and (max-width: 767px){
+.grid_w3 {
+  margin-top: 12px !important;
+}
+}
+
+@media only screen and (max-width: 453px) and (min-width: 415px){
+.uzenet-section {
+  width: 100% !important;
+}
+}
+
+/* Footer */
+
+textarea {
+  height: 150px !important;
+}
+
+.contact-w3-agileits {
+  background: #1f1507 !important;
+}
+
+.copy-right {
+  padding: 0 !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
+
+.footer-copyright-container {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.uzenet {
+  width: 70%;
+}
+
+.contact-right-w3l{
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.hatter {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+
+  z-index: -3;
+}
+
+.hatter img {
+  max-width: 100vw;
+  object-fit: contain;
+  filter: blur(4px);
+  margin-top: -10vh;
+}

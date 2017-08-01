@@ -1,0 +1,108 @@
+.sor {
+  width: 90%;
+  margin: 0 auto !important;
+}
+
+.gridelement {
+  display: flex;
+  flex-direction: column;
+  margin: 30px 0;
+}
+
+.gridelement:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.rapidbuy{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+  position: relative;
+}
+
+.imageholder {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+.gridpic {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.textholder {
+  text-align: center;
+}
+
+.elementtext {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(70, 70, 70);
+  font-style: italic;
+}
+
+.modal-dialog {
+  top: 20vh !important;
+  width: 80% !important;
+  margin: 0 auto !important;
+}
+.modal-content {
+  border-radius: 0 !important;
+}
+
+.modal-header {
+  border: none !important;
+  padding: 10px !important;
+  padding-bottom: 0 !important;
+}
+
+.detailspic {
+  margin: 15px auto;
+}
+
+.detailsholder {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5%;
+  align-items: center;
+  justify-content: center;
+}
+
+.details {
+  text-align: center;
+}
+
+.detailstitle {
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.detailsdata {
+  font-style: italic;
+}
+
+.buybutton {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+}
+
+.buybutton:hover {
+  opacity: 0.4;
+  transition: 0.5s;
+}

@@ -1,0 +1,44 @@
+{
+	"css" : [
+		"../../assets/css/kapcsolat.css",
+        "../../assets/css/style.css",
+		"../../assets/css/index.css",
+        "../../assets/css/bootstrap.css",
+        "../../assets/css/font-awesome.css",
+        "../../assets/css/bootstrap.min.css",
+        "../../assets/css/bootstrap-theme.css",
+        "../../assets/css/bootstrap-theme.min.css"
+
+    ],
+	"js" : [
+        "../../assets/js/bootstrap.js",
+		"../../assets/js/easing.js",
+		"../../assets/js/jquery-1.11.1.min.js",
+		"../../assets/js/jquery.cm-overlay.js",
+		"../../assets/js/mobile.custom.min.js",
+		"../../assets/js/move-top.js",
+		"../../assets/js/responsiveslides.min.js",
+		"../../assets/js/SmoothScroll.min.js",
+		"../../assets/js/bootstrap.min.js",
+		 "../../assets/js/npm.js"
+    ],
+	"fonts" : [
+	     "https://fonts.googleapis.com/css?family=Roboto"
+    ],
+	"seo" :
+	{
+		"lang" : "hu",
+		"title" : "Termékek",
+		"charset" : "UTF-8",
+
+		"meta" :
+		{
+			"description" : "ljsdybflksdbfhds"
+		},
+
+		"og" :
+		{
+
+		}
+	}
+}

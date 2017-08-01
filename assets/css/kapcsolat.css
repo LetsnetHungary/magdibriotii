@@ -1,0 +1,53 @@
+p{
+  color: black!important;
+}
+iframe {
+  width: 90%;
+}
+
+span {
+  font-size: 30px;
+}
+
+.datacont {
+  margin: 30px 0;
+  padding: 0 5%;
+}
+
+.mapcont {
+  margin: 30px 0;
+  padding: 45px;
+  height: 750px!important;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.telefon {
+  display: flex !important;
+  margin-left: 0;
+}
+
+.email {
+  display: flex;
+}
+
+.kapcsolat-section {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-icon {
+  height: 100px!important;
+  width: 200px!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.kapcsolat-logo {
+  max-width: 50%;
+}
