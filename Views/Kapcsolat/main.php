@@ -11,7 +11,7 @@
                   </div>
                   <div class="data-holder">
                   <h3>Telefon</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p><a href="tel:+36209717175"></a>+36 20 971 7175</p>
                   </div>
               </div>
 
@@ -22,7 +22,7 @@
                   </div>
                   <div class="data-holder">
                   <h3>Cím</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p>1194 Budapest, Puskás Ferenc utca 8</p>
                   </div>
               </div>
 
@@ -32,7 +32,7 @@
                   </div>
                   <div class="data-holder">
                   <h3>Email</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p>info@magdibriotii.hu</p>
                   </div>
               </div>
 
@@ -43,24 +43,14 @@
                   </div>
                   <div class="data-holder">
                   <h3>Nyitvatartás</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p></p>
                   </div>
-              </div>
-
-              <div class="col-sm-12 megkozelithetoseg kapcsolat-section"> <!-- Megközelíthetőség -->
-                  <div class="icon contact-icon">
-                  <img class="kapcsolat-logo" src="../../assets/images/car-icon.png" alt="">
-                  </div>
-                  <div class="data-holder">
-                  <h3>Megközelíthetőség</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                  </div>
-              </div>
+              </div> 
             </div>
 
 
             <div class="col-sm-6 col-xs-12 mapcont match">
-            <iframe class="map" width="600px" height="450px" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB48VdGDT4W8jLJFPay2pRuBJ1Hueuze5M&q=47.493965,19.053773"></iframe>
+            <iframe class="map" width="600px" height="450px" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB48VdGDT4W8jLJFPay2pRuBJ1Hueuze5M&q=47.442846, 19.157841"></iframe>
             </div>
 
 
