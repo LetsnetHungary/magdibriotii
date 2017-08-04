@@ -11,7 +11,7 @@
                   </div>
                   <div class="data-holder">
                   <h3>Telefon</h3>
-                  <p><a href="tel:+36209717175"></a>+36 20 971 7175</p>
+                  <p><a href="telto:+36209717175"></a>+36 20 971 7175</p>
                   </div>
               </div>
 
@@ -32,7 +32,7 @@
                   </div>
                   <div class="data-holder">
                   <h3>Email</h3>
-                  <p>info@magdibriotii.hu</p>
+                  <p><a href="email:info@magdibriotii.hu">info@magdibriotii.hu</a></p>
                   </div>
               </div>
 
