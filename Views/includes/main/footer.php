@@ -19,7 +19,7 @@
           				</div>
           				<div class="col-md-11 col-sm-9 col-xs-9 contact-text-agileinfo">
           					<h4>Üzenj nekünk</h4>
-          					<p><a href="mailto:info@example.com">info@example.com</a></p>
+          					<p><a href="mailto:info@example.com">info@magdibriotii.com</a></p>
           				</div>
           				<div class="clearfix"></div>
           			</div>
@@ -29,7 +29,7 @@
           				</div>
           				<div class="col-md-11 col-sm-9 col-xs-9 contact-text-agileinfo">
           					<h4>Hívj minket</h4>
-          					<p>+18044261149</p>
+          					<a href="tel:06209717175:info@magdibriotii.hu"><p>+36 30 971 7175</p></a>
           				</div>
           				<div class="clearfix"></div>
           			</div>
@@ -39,7 +39,7 @@
           				</div>
           				<div class="col-md-11 col-sm-9  col-xs-9 contact-text-agileinfo">
           					<h4>Látogasd meg boltunkat</h4>
-          					<p>Random utca,Budapest,HUN</p>
+          					<p>1194 Budapest, Puskás Ferenc utca 8</p>
           				</div>
           				<div class="clearfix"></div>
           			</div>

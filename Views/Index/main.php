@@ -2,7 +2,7 @@
 
 
     <div class = "hatter">
-        <img src="../../assets/images/slider1.jpg" alt="slider1">
+        <!-- <img src="../../assets/images/hatter.jpg" alt="slider1"> -->
     </div>
 
     <!-- banner -->
@@ -57,8 +57,9 @@
             <div class="col-md-6 col-sm-6 col-xs-12 about_agileits"></div>
             <div class="col-md-6 col-sm-6 col-xs-12 about_text_w3l">
                 <h4>MAGDIBRIOTII</h4>
-                <P class="black">Auris eget vestibulum augue. Integer sit amet tellus libero.Nam ac enim ut velit dictum congue. Integer vitae elit in risus laoreet porttitor non nec enim. Donec nec sapien odio. Nullam dictum, elit maximus vulputate venenatis, neque velit tincidunt mauris, ac facilisis ligula mi et neque. Vivamus ut felis sem. In eget diam lorem. Aliquam tincidunt. Aliquam venenatis  non orci egestas cursus. Phasellus venenatis blandit odio, in tincidunt ex trist.Integer sit amet tellus libero.Nam ac enim ut velit dictum congue. Integer vitae elit in risus laoreet porttitor non nec enim.
-                </P>
+                <p class="black">
+                    Üzletünk 1982 óta üzemel Budapest egyik legforgalmasabb csomópontjánál. Évente emberek ezreinek készítjük el álmai kollekcióját. <br> <br> Válogasson online már több mint száz termékünk közül! <br> Legyen szó alkalmi, szezonális, menyasszonyi csokorról mi elkészítjük önnek. <br> <br> Amennyiben egyedi igénye van kérjük írjon nekünk a weboldalon / emailben, egy napon belül felvesszük önnel a kapcsolatot!
+                </p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -125,40 +126,26 @@
                     <img class="img-w3l t1-wthree img-responsive" src="../../assets/images/t1.jpg" alt="">
                     <h5>Mercurio</h5>
                     <p>Lorem ipsum dolor sit amet.Cras rutrum iaculis enim, non convallis felis mattis.</p>
-                    <div class="social-icons">
-                        <ul>
-                            <li><a href="#" class="fa fa-facebook icon icon-border facebook"> </a></li>
-                            <li><a href="#" class="fa fa-twitter icon icon-border twitter"> </a></li>
-                            <li><a href="#" class="fa fa-google-plus icon icon-border googleplus"> </a></li>
-                        </ul>
-                        <div class="clearfix"> </div>
-                    </div>
+                    
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12 team-grid w3_agileits t2"> <!-- Második oszlop -->
                     <img class="img-w3l t1-wthree img-responsive" src="../../assets/images/t2.jpg" alt="">
                     <h5>Clifford</h5>
                     <p>Lorem ipsum dolor sit amet.Cras rutrum iaculis enim, non convallis felis mattis.</p>
-                    <div class="social-icons">
-                        <ul>
-                            <li><a href="#" class="fa fa-facebook icon icon-border facebook"> </a></li>
-                            <li><a href="#" class="fa fa-twitter icon icon-border twitter"> </a></li>
-                            <li><a href="#" class="fa fa-google-plus icon icon-border googleplus"> </a></li>
-                        </ul>
-                        <div class="clearfix"> </div>
-                    </div>
+                    
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12 w3_agileits team-grid"> <!-- Harmadik oszlop -->
                     <img class="img-w3l t1-wthree img-responsive" src="../../assets/images/t3.jpg" alt="">
                     <h5>Davidson</h5>
                     <p>Lorem ipsum dolor sit amet.Cras rutrum iaculis enim, non convallis felis mattis.</p>
-                    <div class="social-icons agile">
+                    <!-- <div class="social-icons agile">
                         <ul>
                             <li><a href="#" class="fa fa-facebook icon icon-border facebook"> </a></li>
                             <li><a href="#" class="fa fa-twitter icon icon-border twitter"> </a></li>
                             <li><a href="#" class="fa fa-google-plus icon icon-border googleplus"> </a></li>
                         </ul>
                         <div class="clearfix"> </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="clearfix"> </div>
             </div>

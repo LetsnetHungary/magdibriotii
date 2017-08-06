@@ -4,6 +4,7 @@
 	<? if($this->SEO) {?>
 		<meta charset = "<?php echo $this->SEO->seo->charset; ?>">
 		<title><?php echo $this->SEO->seo->title; ?></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <?php
 if($this->SEO->seo->meta != null)
