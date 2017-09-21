@@ -527,9 +527,11 @@ h3.title {
 	color: white;
 }
 .about_agileits {
-	background: url(../images/5.jpg) center;
+	background: url(../images/briotii.jpg) center;
 	background-size: cover;
-	min-height: 300px;
+	min-height: 400px;
+	max-width: 400px;
+	padding-right: 40px;
 }
 .about_main h4 {
     font-size: 2em;

@@ -117,41 +117,7 @@
     </div>
     </div>
 
-    <!--team -->
-    <div class="team agileits-w3layouts" id="team">
-        <div class="container">
-            <h3 class="title">Csapatunk</h3>  <!-- Csapatunk felirat -->
-            <div class="team-w3ls">		<!-- Csapat tagok -->
-                <div class="col-md-4 col-sm-12 col-xs-12 team-grid w3_agileits"> <!-- Első oszlop -->
-                    <img class="img-w3l t1-wthree img-responsive" src="../../assets/images/t1.jpg" alt="">
-                    <h5>Mercurio</h5>
-                    <p>Lorem ipsum dolor sit amet.Cras rutrum iaculis enim, non convallis felis mattis.</p>
-                    
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12 team-grid w3_agileits t2"> <!-- Második oszlop -->
-                    <img class="img-w3l t1-wthree img-responsive" src="../../assets/images/t2.jpg" alt="">
-                    <h5>Clifford</h5>
-                    <p>Lorem ipsum dolor sit amet.Cras rutrum iaculis enim, non convallis felis mattis.</p>
-                    
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12 w3_agileits team-grid"> <!-- Harmadik oszlop -->
-                    <img class="img-w3l t1-wthree img-responsive" src="../../assets/images/t3.jpg" alt="">
-                    <h5>Davidson</h5>
-                    <p>Lorem ipsum dolor sit amet.Cras rutrum iaculis enim, non convallis felis mattis.</p>
-                    <!-- <div class="social-icons agile">
-                        <ul>
-                            <li><a href="#" class="fa fa-facebook icon icon-border facebook"> </a></li>
-                            <li><a href="#" class="fa fa-twitter icon icon-border twitter"> </a></li>
-                            <li><a href="#" class="fa fa-google-plus icon icon-border googleplus"> </a></li>
-                        </ul>
-                        <div class="clearfix"> </div>
-                    </div> -->
-                </div>
-                <div class="clearfix"> </div>
-            </div>
-        </div>
-    </div>
-
+    
 
 
     <!-- Gallery-plugin -->
